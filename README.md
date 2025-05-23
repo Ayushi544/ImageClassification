@@ -1,7 +1,7 @@
 # ImageClassification
 This project aims to build a basic image classification model to classify images of Indian ships into two categories:
 
-Class 1: Army ships
+Class 1: Navy ships
 Class 2: Commercial ships
 Using data augmentation and pre-trained models like ResNet50, I have trained the model to recognize and classify these two types of ships. This project is designed for beginners to help me learn the basics of image classification, data preprocessing, and model evaluation in deep learning.
 
@@ -13,7 +13,7 @@ Model Evaluation: I employed accuracy, precision, recall, and F1-score to evalua
 Data Preprocessing
 The dataset consists of images of ships, divided into two categories:
 
-Class 1 (Army ships): Contains images of various army ships.
+Class 1 (Navy ships): Contains images of various navy ships.
 Class 2 (Commercial ships): Contains images of different commercial ships.
 The data is split into train and validation sets with an equal number of images in both classes.
 
